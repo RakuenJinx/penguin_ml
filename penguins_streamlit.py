@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split
 
 import streamlit as st
 
-st.title("Penguin Classifier")
+st.title("Penguin Classifier A Machine Learning App")
 
 st.write(
     "This app uses 6 inputs to predict the species of penguin using "
